@@ -1,0 +1,275 @@
+body{
+			background-image: url("");
+			background-repeat: no-repeat;
+			background-size: ;
+			font-family: 'Clicker Script', cursive;
+			font-size:  px;
+			text-align: justify;
+			bottom: 50px;
+
+		
+	}
+a:link{
+	color:#FFFFFF;
+}
+
+	#name{
+			position: absolute;
+			top: 120px;
+			left: 050px;
+			right: 050px;
+			text-align: center;
+			font-size: 45px;
+
+	}
+
+	#navbar{
+			position: absolute;
+			top: 10px;
+			left: 0px;
+			right: 0px;
+			text-align: center;
+			font-size: 35px;
+			border-radius: 00px;
+			background-color: ;
+			padding-top: 60px;
+			padding-bottom: 30px;
+}
+
+#content{
+		position: absolute;
+		top: 400px;
+		left: 75px;
+		right: 75px;
+		bottom: 100px;
+		text-align: center;
+		font-size: 40px;
+		background-color: rgba(0,0,0,0.3);
+		border-radius: 03px;
+		padding-top: 30px;
+		padding-bottom: 500px;
+		padding-left:  30px;
+		padding-right: 30px;
+	}
+
+	#content:hover{
+		color:				black;
+		background-color:	rgba(00,00,10,.03);
+		-webkit-transform: rotate (5deg);
+    	
+
+	}
+
+
+	#links{
+		position: relative;
+		background-attachment: fixed;
+		top: 400px;
+		left: 00px;
+		right: ;
+		bottom: ;
+		text-align: ;
+		font-size: ;
+	}
+
+#work{
+	position: absolute;
+		top: 450px;
+		left: 75px;
+		right: 75px;
+		bottom: 100px;
+		text-align: center;
+		font-size: 40px;
+}
+#workcontent{
+	background-image: url("road.png");
+		background-size:  100%;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		padding-top: 500px;
+		padding-bottom: 500px;
+		padding-left:  500px;
+		padding-right: 700px;
+		color: white;
+}
+
+
+
+#educontent{
+	background-image: url("bg1.jpg");
+		background-size:  100%;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		padding-top: 500px;
+		padding-bottom: 500px;
+		padding-left:  500px;
+		padding-right: 700px;
+}
+
+#education{
+	position: absolute;
+		top:400px;
+		left: 78px;
+		text-align: justify;
+		font-size: 40px;
+		
+	}
+
+#hobbies{
+	position: absolute;
+		top: 400px;
+		left: 75px;
+		right: 75px;
+		bottom: 100px;
+		text-align: center;
+		font-size: 40px;
+		background-image: url("bg1.jpg");
+		background-size: 1400px, 1500px;
+		background-repeat: no-repeat;
+		padding-top: 60px;
+		padding-bottom: 500px;
+		padding-left:  90px;
+		padding-right: 30px;
+}
+
+#insti{
+	position: absolute;
+		top: 450px;
+		left: 075px;
+		right: ;
+		bottom: 100px;
+		text-align: right;
+		font-size: 30px;
+}
+
+#classes{
+	position: absolute;
+		top: 470px;
+		left: 800px;
+		right: ;
+		bottom: 100px;
+		text-align: ;
+		font-size: 30px;
+}
+
+#bd{
+	position: absolute;
+		top: 270px;
+		left: ;
+		right: 010px;
+		bottom: ;
+		text-align: ;
+		font-size: 30px;
+}
+
+#Timer{
+	position: absolute;
+		top: 310px;
+		left: ;
+		right: 20px;
+		bottom: ;
+		text-align: center;
+		font-size: 20px;
+		
+		
+}
+
+
+#mybd{
+	position: absolute;
+		top: 270px;
+		left: ;
+		right: 100px;
+		bottom: ;
+		text-align: center;
+		font-size: 30px;
+}
+
+#fb{
+	position: absolute;
+	top: 100px;
+	font-size: 15px;
+
+}
+
+#a{
+		position: absolute;
+		top: 20px;
+		left: 50px;
+		right: ;
+		bottom: ;
+		text-align: center;
+		font-size: 40px;
+}
+
+#b{
+		position: absolute;
+		top: 20px;
+		left: 250px;
+		right: ;
+		bottom: ;
+		text-align: center;
+		font-size: 40px;
+}
+
+#c{
+		position: absolute;
+		top: 20px;
+		left: 450px;
+		right: ;
+		bottom: ;
+		text-align: center;
+		font-size: 40px;
+}
+
+#d{
+		position: absolute;
+		top: 20px;
+		left: 650px;
+		right: ;
+		bottom: ;
+		text-align: center;
+		font-size: 40px;
+}
+
+#e{
+		position: absolute;
+		top: 20px;
+		left: 850px;
+		right: ;
+		bottom: ;
+		text-align: center;
+		font-size: 40px;
+}
+
+#f{
+		position: absolute;
+		top: 20px;
+		left: 1050px;
+		right: ;
+		bottom: ;
+		text-align: center;
+		font-size: 40px;
+}
+
+
+
+
+#a:hover{
+-webkit-transform: scale(1.2);
+}
+#b:hover{
+-webkit-transform: scale(1.2);
+}
+#c:hover{
+-webkit-transform: scale(1.2);
+}
+#d:hover{
+-webkit-transform: scale(1.2);
+}
+#e:hover{
+-webkit-transform: scale(1.2);
+}
+#f:hover{
+-webkit-transform: scale(1.2);
+}
